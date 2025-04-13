@@ -46,7 +46,7 @@
 
 <div align="center">
  <h3>USED TECHNOLOGIES & TOOLS</h3>
-     <img src="https://skillicons.dev/icons?i=ts,nodejs,express,vscode,github" />
+     <img src="https://skillicons.dev/icons?i=ts,tailwind,nodejs,express,vscode,github" />
 </div>
 
 <br><br>
