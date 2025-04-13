@@ -1,6 +1,7 @@
+# FilterForge
+
 ![image](https://github.com/user-attachments/assets/459c2a5e-1ceb-4719-badb-316cf648362d)
 
-# **App Name**: FilterForge
 
 ## Core Features:
 
@@ -42,4 +43,28 @@
 6. **Bonus (upcoming...)**
    - Persist recent edits in localStorage so users can reload and continue.
    - Allow downloading all three images as a ZIP.
+
+<div align="center">
+ <h3>USED TECHNOLOGIES & TOOLS</h3>
+     <img src="https://skillicons.dev/icons?i=ts,nodejs,express,vscode,github" />
+</div>
+
+<br><br>
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/mGunawardhana/FilterForge-Image-Editor?style=for-the-badge) &nbsp;
+![GitHub](https://img.shields.io/github/license/mGunawardhana/FilterForge-Image-Editor?style=for-the-badge) &nbsp;
+![GitHub Forks](https://img.shields.io/github/forks/mGunawardhana/FilterForge-Image-Editor?&labelColor=black&color=f7b731&style=for-the-badge) &nbsp;
+![GitHub Watchers](https://img.shields.io/github/watchers/mGunawardhana/FilterForge-Image-Editor?style=for-the-badge) &nbsp;
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mGunawardhana/FilterForge-Image-Editor?style=for-the-badge) &nbsp;
+
+</div>
+<br><br>
+
+<div align="center">
+
+## © 2025 mGunawardhana. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ.
+
+</div>
+
   
