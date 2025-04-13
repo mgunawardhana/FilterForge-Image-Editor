@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae51ca54-9d00-49d6-80dc-fa63e6d70448)
-
+![image](https://github.com/user-attachments/assets/459c2a5e-1ceb-4719-badb-316cf648362d)
 
 # **App Name**: FilterForge
 
